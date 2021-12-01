@@ -1,6 +1,6 @@
 # Monaco Lua Example
 
-An example setup using sumneko's [Lua Language Server](https://github.com/sumneko/lua-language-server/) together with [Monaco Editor](https://github.com/microsoft/monaco-editor).
+An example setup using sumneko's [Lua Language Server](https://github.com/sumneko/lua-language-server/) and JohnnyMorganz's [StyLua](https://github.com/JohnnyMorganz/StyLua) together with [Monaco Editor](https://github.com/microsoft/monaco-editor).
 
 ## Features
 
