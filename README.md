@@ -8,7 +8,7 @@ An example setup using sumneko's [Lua Language Server](https://github.com/sumnek
 - 🚀 Autocompletion
 - 🌝 EmmyLua
 - ✔️ Linting
-- 🦀 Formatting (using [StyLua](https://github.com/JohnnyMorganz/StyLua) via wasm)
+- 🦀 Formatting (via wasm)
 - ⚡ Vite based client
 
 ## Info
