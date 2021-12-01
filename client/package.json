@@ -1,5 +1,5 @@
 {
-  "name": "monaco-language-server",
+  "name": "monaco-lua-example-client",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
