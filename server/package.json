@@ -1,5 +1,5 @@
 {
-  "name": "monaco-lua-example-client",
+  "name": "monaco-lua-example-server",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
