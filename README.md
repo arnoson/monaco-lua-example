@@ -1,3 +1,6 @@
+> **Note**
+> A lot of dependencies have changed and I don't have the capcity to keep this repo up to date. Maybe it will still be useful as a starting point.
+
 # Monaco Lua Example
 
 An example setup using sumneko's [Lua Language Server](https://github.com/sumneko/lua-language-server/) and JohnnyMorganz's [StyLua](https://github.com/JohnnyMorganz/StyLua) together with [Monaco Editor](https://github.com/microsoft/monaco-editor).
